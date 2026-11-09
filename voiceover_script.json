@@ -1,0 +1,91 @@
+{
+  "project": "Geopolitical Shorts",
+  "language": "English",
+  "voice_style": "Professional cinematic documentary narrator (British or neutral English)",
+  "tone": "Engaging, serious, authoritative",
+  "speed": 1.0,
+  "total_duration_seconds": 54.0,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Over twelve thousand kilometres apart. Two nations. One war, over a few windswept islands.",
+      "emotion": "dramatic",
+      "delivery": "Strong, low opening hook; slight pause after 'apart' and after 'nations'",
+      "pause_after": 0.2
+    },
+    {
+      "id": 2,
+      "start": 5.4,
+      "end": 12.4,
+      "text": "The Falklands, called Las Malvinas in Argentina, lie about 480 kilometres off its coast. Britain has ruled them since 1833.",
+      "emotion": "authoritative",
+      "delivery": "Calm, informative; let 'Las Malvinas' land clearly",
+      "pause_after": 0.2
+    },
+    {
+      "id": 3,
+      "start": 12.4,
+      "end": 17.6,
+      "text": "On 2 April 1982, Argentina invaded the Falklands. A day later, it seized South Georgia.",
+      "emotion": "tense",
+      "delivery": "Build tension; short beat before 'A day later'",
+      "pause_after": 0.2
+    },
+    {
+      "id": 4,
+      "start": 17.6,
+      "end": 24.0,
+      "text": "Britain sent a task force south on 5 April. By 26 April, South Georgia was back under British control.",
+      "emotion": "serious",
+      "delivery": "Steady and purposeful",
+      "pause_after": 0.2
+    },
+    {
+      "id": 5,
+      "start": 24.0,
+      "end": 30.0,
+      "text": "On 21 May, British troops landed at San Carlos, then advanced across East Falkland towards Stanley.",
+      "emotion": "intense",
+      "delivery": "Driving pace, slightly faster through 'advanced'",
+      "pause_after": 0.2
+    },
+    {
+      "id": 6,
+      "start": 30.0,
+      "end": 35.0,
+      "text": "On 14 June, Argentine forces in Stanley surrendered. The war had lasted 74 days.",
+      "emotion": "solemn",
+      "delivery": "Slow down on 'surrendered'; pause before '74 days'",
+      "pause_after": 0.3
+    },
+    {
+      "id": 7,
+      "start": 35.0,
+      "end": 41.5,
+      "text": "649 Argentine and 255 British servicemen died, along with three islanders.",
+      "emotion": "somber",
+      "delivery": "Measured, respectful, no drama in the numbers",
+      "pause_after": 0.4
+    },
+    {
+      "id": 8,
+      "start": 41.5,
+      "end": 46.0,
+      "text": "In 2013, 99.8 percent of islanders voted to stay British.",
+      "emotion": "matter-of-fact",
+      "delivery": "Clear and neutral",
+      "pause_after": 0.3
+    },
+    {
+      "id": 9,
+      "start": 46.0,
+      "end": 53.0,
+      "text": "Argentina still claims the islands. Britain says the islanders decide. More than four decades on, the dispute is not settled.",
+      "emotion": "reflective",
+      "delivery": "Slow, weighty finish; long pause before the last sentence",
+      "pause_after": 0.0
+    }
+  ]
+}
